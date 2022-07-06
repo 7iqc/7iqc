@@ -26,7 +26,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## :sassy_man:  Connect with me
 <p align="center">
 	<a href="mailto:brhoom.aljabbari@gmail.com"><img img src="https://img.shields.io/badge/gmail-05122A?style=flat&logo=gmail" alt="Gmail"/></a>
 	<a href="https://github.com/7iqc"><img src="https://img.shields.io/badge/github-05122A?style=flat&logo=github" alt="GitHub"/></a>
